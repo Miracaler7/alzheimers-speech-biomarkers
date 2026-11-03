@@ -1,0 +1,16 @@
+# Raw audio datasets & processed wavs
+*.wav
+*.mp3
+processed_audio/
+Audio Spech-PittCorpus/
+
+# Feature arrays & serialized models
+*.npz
+*.joblib
+models/
+features/
+
+# Python caching & checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
